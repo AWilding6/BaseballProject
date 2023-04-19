@@ -153,13 +153,3 @@ FROM Slugging
 
 SELECT *
 FROM Outs
-
-
-
-
-
-
-
-
-	
-
